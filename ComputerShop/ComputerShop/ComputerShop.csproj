@@ -124,9 +124,11 @@
     <Content Include="Content\business-frontpage.css" />
     <Content Include="Content\font-awesome.min.css" />
     <Content Include="Content\fOOTER.css" />
+    <Content Include="Content\round-about.css" />
     <Content Include="Content\shop-homepage.css" />
     <Content Include="Content\Site.css" />
     <Content Include="Content\stylish-portfolio.css" />
+    <Content Include="Content\test.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="img\callout.jpg" />
@@ -175,6 +177,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Content\bilder\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>
